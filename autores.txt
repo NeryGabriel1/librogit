@@ -1,1 +1,1 @@
--e "J. K. Rowling(J.K.Rowling@gmail.com)" 
+-e "JK.Rowling(JK.Rowling@gmail.com)" 
